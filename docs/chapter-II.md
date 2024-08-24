@@ -1,6 +1,6 @@
 # Capítulo II: Requirements Elicitation & Analysis
 
-
+![alt text](../assets/img/chapter-II/Logo_Metasoft.png)
 ## 2.1. Competidores.
 
 En este punto el equipo realizará investigaciones sobre nuestros potenciales competidores en el mercado.
@@ -22,10 +22,10 @@ En este apartado el equipo realizará un analisis competitivo de nuestras 3 prin
     <tbody style="text-align: center">
         <tr>
             <th colspan="2"></th>
-            <th><img src="/assets/img/chapter-II/Metasoft-logo.png" width="100" alt="Metasoft_logo"></th>
-            <th><img src="/assets/img/chapter-II/Vinotec_logo.png" width="100" alt="Vinotec_logo"></th>
-            <th><img src="/assets/img/chapter-II/WineManager_logo.png" width="100" alt="WineManager_logo"></th>
-            <th><img src="/assets/img/chapter-II/vintrace_logo.png" width="100" alt="vintrace_ogo"></th>
+            <th><img src="assets/img/chapter-II/Logo_ExilirControl.png" width="100" alt="Logo_ExilirControl"></th>
+            <th><img src="assets/img/chapter-II/Logo_Vinotec.png" width="100" alt="Logo_Vinotec"></th>
+            <th><img src="assets/img/chapter-II/Logo_WineManager.png" width="100" alt=Logo_WineManager"></th>
+            <th><img src="assets/img/chapter-II/Logo_Vintrace.png" width="100" alt="Logo_Vintrace"></th>
         </tr>
         <!-- Este apartado pertenece al PERFIL se fucionó dos filas -->
         <tr>
