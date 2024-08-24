@@ -3,6 +3,7 @@
 ![alt text](../assets/img/chapter-II/Logo_Metasoft.png)
 ## 2.1. Competidores.
 
+
 En este punto el equipo realizará investigaciones sobre nuestros potenciales competidores en el mercado.
 
 ### 2.1.1. Análisis competitivo.
